@@ -1,0 +1,69 @@
+/* ---------
+poppins font 
+------------ */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    
+   
+}
+
+.my-margin{
+    margin-bottom: 80px;
+}
+
+
+/* --------------
+header style start 
+------------------ */
+
+.bg-header{
+    background-color: #264653;
+}
+
+.header-title{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 72px;
+}
+.btn-color{
+    background: #E76F51;
+    color: white;
+}
+
+
+/* --------------------
+    Fetured Bikes 2021 
+-----------------------*/
+
+.text-color{
+    color: #E76F51;
+    font-size: 14px;
+    font-weight: 600;
+}
+.image-fliter{
+    filter: grayscale(100%);
+}
+
+.feture-img{
+    width: 288px;
+    height: 243px
+}
+
+
+/*-------------------- 
+    Happy clients says
+ --------------------- */
+
+.fas,.far{
+    color: #E76F51;
+}
+
+
+.bg-subscribe{
+    background-color: #88FFF7;
+}
+
+
